@@ -1,0 +1,18 @@
+[
+  {
+    "id": "0",
+    "question": "Voulez-vous y inclure des majuscules ?"
+  },
+  {
+    "id": "1",
+    "question": "Voulez-vous y inclure des nombres ?"
+  },
+  {
+    "id": "2",
+    "question": "Voulez-vous y inclure des caractères spéciaux ?"
+  },
+  {
+    "id" : "3",
+    "question" : "Combien de caractères ?"
+  }
+]

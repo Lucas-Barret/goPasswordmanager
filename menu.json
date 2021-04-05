@@ -1,0 +1,23 @@
+
+[
+  {
+    "id": "0",
+    "action": "Quitter All4One"
+  },
+  {
+    "id": "1",
+    "action": "Générer un mot de passe"
+  },
+  {
+    "id": "2",
+    "action": "Voir vos mots de passe"
+  },
+  {
+    "id" : "3",
+    "action" : "Ajouter des creds"
+  },
+  {
+    "id" : "4",
+    "action" : "Supprimer des creds"
+  }
+]
